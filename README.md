@@ -13,7 +13,8 @@
 
 - 🔭 I’m currently working on *Jama masjid*
 
-- 👯 I’m looking to collaborate on [Universal Travel](https://shekhfaisal2110.github.io/UniversalTravels/)
+- 👯 I’m looking to collaborate on [Universal Travel](https://shekhfaisal2110.github.io/UniversalTravels/) (Destop size only)
+  
 
 - 🤝 I’m looking for help with [AnimateJS](https://shekhfaisal2110.github.io/AnimateJS/)
 
