@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Universal Travel](https://shekhfaisal2110.github.io/UniversalTravels/)
 
-- 🤝 I’m looking for help with [Universal Travel](https://shekhfaisal2110.github.io/UniversalTravels/)
+- 🤝 I’m looking for help with [AnimateJS](https://shekhfaisal2110.github.io/AnimateJS/)
 
 - ⚡ Fun fact *I am funny*
 
