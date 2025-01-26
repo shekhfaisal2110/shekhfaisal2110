@@ -47,10 +47,6 @@
 ![shekhfaisal2110's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=shekhfaisal2110&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
