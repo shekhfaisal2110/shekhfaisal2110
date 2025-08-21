@@ -25,12 +25,12 @@
 ### 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,react,aws,github,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,github,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -39,8 +39,6 @@
 </p>
 
 ### 📊 GitHub Stats:
-![shekhfaisal2110's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=false)<br/>
-![shekhfaisal2110's Stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
 ![shekhfaisal2110's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 
 
