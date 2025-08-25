@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on *Jama masjid*
 
-- 🤝 I’m looking for help with [Poetfolio](https://portfolio-psi-teal-45.vercel.app/)
+- 🤝 I’m looking for help with [Portfolio](https://portfolio-psi-teal-45.vercel.app/)
 
 - ⚡ Fun fact *I am funny*
 
