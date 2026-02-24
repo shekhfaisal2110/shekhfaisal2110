@@ -16,7 +16,6 @@
 
 ## 🎯 **About Me**
 
-
 **I create pixel-perfect, responsive web experiences that users love.**  
 From concept to deployment, I handle the complete frontend lifecycle with clean, scalable code.
 
@@ -45,12 +44,39 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 
 ---
 
-## 📊 **GitHub Stats**
+## 💰 **Budget-Friendly Development**
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=false&no-bg=true)
+| **Service** | **Features** | **Price** |
+|-------------|--------------|-----------|
+| **Basic Website** | Responsive Design, 5 Pages, Contact Form | **₹5,000 - ₹15,000** |
+| **React Portfolio** | Modern UI, Animations, Deployment | **₹10,000 - ₹25,000** |
+| **E-commerce Landing** | Product Showcase, Cart, Payment Integration | **₹20,000 - ₹40,000** |
+| **Custom Web App** | Full Custom Features, Admin Panel | **₹40,000+** (Custom Quote) |
+
+**🎁 Free Services:**
+- Portfolio Review & Optimization
+- Code Review (up to 500 lines)
+- Tech Stack Consultation
+
+[![Contact for Quote](https://img.shields.io/badge/Contact%20for%20Quote-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
+
+</div>
+
+---
+
+## 📊 **GitHub Stats** *(All Working!)*
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="42%" />
 
 </div>
 
@@ -77,7 +103,7 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 | 📱 **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210) |
 
 **📍 Surat, Gujarat, India**  
-**💌 shekhfaisal@example.com**
+**💌 shekhfaisal@example.com** | **📱 +91 98765 43210**
 
 </div>
 
@@ -87,7 +113,7 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 
 - 🏢 **Frontend Developer** positions (Full-time/Contract)
 - 🤝 **Open Source** contributions & collaborations
-- 💼 **Freelance** UI/UX development projects
+- 💼 **Freelance** UI/UX development projects (See budget above)
 - 🚀 **Mentorship** opportunities in React ecosystem
 
 ---
@@ -99,3 +125,7 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 [![Visitors](https://komarev.com/ghpvc/?username=shekhfaisal2110&color=radical&style=flat-square&label=Profile+Visitors)](https://github.com/shekhfaisal2110)
 
 
+
+<img src="https://img.shields.io/badge/Contributions%20Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Contributions Welcome"/>
+
+</div>
