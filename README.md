@@ -23,15 +23,15 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 
 ## 🛠️ **Tech Stack**
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=vs-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white) |
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,git,github,vscode,vercel,figma" />
 </div>
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | React • Next.js • TypeScript |
+| **Styling** | Tailwind • Bootstrap • Figma |
+| **Tools** | GitHub • VSCode • Vercel |
 
 ---
 
@@ -60,23 +60,39 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 - Code Review (up to 500 lines)
 - Tech Stack Consultation
 
-[![Contact for Quote](https://img.shields.io/badge/Contact%20for%20Quote-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
+[![Get Quote](https://img.shields.io/badge/Get%20Quote-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats** *(All Working!)*
+## 📊 **GitHub Stats** *(NOW 100% WORKING!)*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true" width="42%" />
+### 📈 Main Stats & Top Languages
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true" width="425" height="250" />
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true" width="400" height="200" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="42%" />
+### 🔥 Streak & Trophies
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true" width="425" height="250" />
+</td>
+<td align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&margin-w=4" width="425" height="250" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -85,7 +101,7 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 ## 🔥 **Recent Activity**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhfaisal2110&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhfaisal2110&theme=react-dark&hide_border=true" width="100%" height="300" alt="Activity Graph"/>
 </div>
 
 ---
@@ -113,7 +129,7 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 
 - 🏢 **Frontend Developer** positions (Full-time/Contract)
 - 🤝 **Open Source** contributions & collaborations
-- 💼 **Freelance** UI/UX development projects (See budget above)
+- 💼 **Freelance** projects (Budget section above)
 - 🚀 **Mentorship** opportunities in React ecosystem
 
 ---
@@ -123,9 +139,3 @@ From concept to deployment, I handle the complete frontend lifecycle with clean,
 ## 👀 **Profile Visitors**
 
 [![Visitors](https://komarev.com/ghpvc/?username=shekhfaisal2110&color=radical&style=flat-square&label=Profile+Visitors)](https://github.com/shekhfaisal2110)
-
-
-
-<img src="https://img.shields.io/badge/Contributions%20Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Contributions Welcome"/>
-
-</div>
