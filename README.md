@@ -97,8 +97,6 @@ I create **pixel-perfect**, **responsive** web experiences that feel fast and in
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shekhfaisal2110&color=radical&style=flat-square&label=Profile+Visitors)
-
 `⭐ Star this repo if you found this README helpful.`  
 `🙏 Thanks for visiting — let’s build something awesome! 🚀`
 
