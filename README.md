@@ -16,84 +16,71 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  
-**Frontend Developer** with a passion for crafting **pixel-perfect**, **responsive** web applications. I love turning complex problems into **intuitive user experiences** using modern technologies.
+I am a **Frontend Developer** dedicated to crafting **pixel-perfect**, **responsive** web applications. I bridge the gap between design and code to create **intuitive user experiences** using modern React ecosystems.
 
-- 🔭 Currently working on **[Jama Masjid Project](https://portfolio-psi-teal-45.vercel.app/)**
-- 🌱 Learning **Next.js 14**, **TypeScript**, and **Advanced React Patterns**
-- 👨‍💻 Featured on my **[Portfolio](https://portfolio-psi-teal-45.vercel.app/)**
-- 💬 Ask me about **React**, **Tailwind CSS**, **UI/UX Design**
-- ⚡ Fun fact: Coffee-powered code commits ☕
+- 🔭 **Current Focus:** Enhancing the [Jama Masjid Project](https://portfolio-psi-teal-45.vercel.app/)
+- 🌱 **Learning Path:** Next.js 14, TypeScript, and Scalable Design Systems
+- 💬 **Ask Me About:** React, Tailwind CSS, and UI Optimization
+- ⚡ **Fun Fact:** I solve bugs faster after a cup of strong coffee ☕
 
-</div>
-
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" alt="divider">
-</p>
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Frontend
-<p>
+### 💻 Languages & Frameworks
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nextjs" height="48" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
   </a>
 </p>
 
-### Styling & UI
-<p>
+### 🎨 Styling & Design
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" height="48" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,sass" />
   </a>
 </p>
 
-### Tools & Version Control
-<p>
+### 🔧 Tools & Deployment
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="48" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,vite,postman" />
   </a>
 </p>
 
-</div>
+---
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" alt="divider">
-</p>
-
-## 📊 GitHub Stats
+## 📊 GitHub Ecosystem
 
 <div align="center">
-
-[![shekhfaisal2110's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Faisal's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" alt="divider">
-</p>
+---
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://portfolio-psi-teal-45.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhfaisal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" alt="divider">
-</p>
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shekhfaisal2110&color=radical&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=shekhfaisal2110&color=31859C&style=flat-square&label=PROFILE+VIEWS" alt="visitor badge"/>
 </div>
