@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="400"/>
 
-## Frontend Developer · React Specialist · MERN Stack Enthusiast
+## Frontend Developer · React Developer · MERN Stack Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
