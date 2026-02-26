@@ -100,3 +100,25 @@ Replace the default URLs with these direct links that include your username and 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+
+## 📞 Let’s Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekhfaisal2110)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo
+
+
+---
+
+<div align="center">
+
+`⭐ Star this repo if you found this README helpful.`  
+`🙏 Thanks for visiting — let’s build something awesome! 🚀`
+
+</div>
