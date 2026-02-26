@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Welcome to Shekh Faisal's GitHub
+# 👋 Assalamu Alaikum! I'm Shekh Faisal
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47cjfg1o9v16g2jkrj29d48sn46k2h21kftpg7hxwp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" width="400"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="400"/>
 
-## Frontend Developer · React Specialist · UI/UX Enthusiast
+## Frontend Developer · React Specialist · MERN Stack Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%9A%80-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekhfaisal2110)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekhfaisal2110)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekhfaisal.2110@gmail.com)
 
 </div>
 
@@ -17,13 +17,13 @@
 
 ## 🎯 About Me
 
-🔭 **Currently building:** [**Salah Streak**](https://salah-streak.netlify.app/) – A comprehensive Islamic app for tracking prayers, tasbeeh, Quran reading, and daily tasks.  
+🔭 **Currently building:** [**Salah Streak**](https://salah-streak.netlify.app/) – A comprehensive Islamic app for tracking prayers, tasbeeh, and spiritual goals  
 🌱 **Learning:** Next.js 14, TypeScript, React Query  
-💻 **Expertise:** React, Tailwind CSS, Modern UI/UX, Full-stack MERN  
+💻 **Expertise:** React, Tailwind CSS, MERN Stack, UI/UX Design  
 📍 **Based in:** Ahmedabad, Gujarat, India  
-⚡ **Fun fact:** I debug faster after a strong **coffee** ☕
+⚡ **Fun fact:** I debug faster with a strong cup of **chai** ☕
 
-I create **pixel-perfect**, **responsive** web experiences that feel fast and intuitive. From concept to deployment, I focus on clean, scalable frontend architecture.
+I craft **pixel-perfect**, **responsive** web experiences that combine beautiful design with robust functionality.
 
 ---
 
@@ -38,79 +38,65 @@ I create **pixel-perfect**, **responsive** web experiences that feel fast and in
 | **Category**      | **Technologies**                                                                   |
 |-------------------|------------------------------------------------------------------------------------|
 | **Frontend**      | React, Next.js, JavaScript (ES6+), TypeScript                                     |
-| **Styling**       | Tailwind CSS, Bootstrap, CSS3, Figma                                              |
+| **Styling**       | Tailwind CSS, Bootstrap, CSS3, Framer Motion                                      |
 | **Backend**       | Node.js, Express, MongoDB                                                          |
-| **Tools**         | Git, GitHub, VS Code, Vercel, Postman                                              |
+| **Tools**         | Git, GitHub, VS Code, Vercel, Postman, Figma                                      |
 
 ---
 
-## ✨ Featured Project
+## ✨ Featured Projects
 
-### 🕌 Salah Streak – Islamic Prayer & Dhikr Tracker
+### 🕌 Salah Streak – Islamic Spiritual Companion
 
-A comprehensive MERN stack application for the Muslim community to track daily spiritual activities.
+A full-stack MERN application helping Muslims track daily prayers, dhikr, Quran reading, and tasks.
 
-| **Feature**               | **Description**                                                                                       |
-|---------------------------|-------------------------------------------------------------------------------------------------------|
-| **Prayer Tracker**        | Log 5 daily prayers with streaks & monthly summaries                                                |
-| **Tasbeeh Counter**       | Customizable dhikr lists with pin/hide, custom counts, and completion celebrations                  |
-| **Quran Tracker**         | Mark completed Juz (paras), store history, and generate PDF reports                                 |
-| **Daily Tasks**           | Create recurring tasks with custom times, track completions, and view year calendars                 |
-| **Leaderboard**           | Compete in consistency, streaks, and total dhikr categories                                         |
-| **Analytics Dashboard**   | Track site usage, page views, and user events with interactive charts                               |
-| **Authentication**        | Full auth system with email OTP verification and password reset                                     |
-| **Reports**               | Download detailed PDF reports for prayers, tasbeeh, and tasks for any period                        |
+| **Feature**          | **Description**                                                                                  |
+|----------------------|--------------------------------------------------------------------------------------------------|
+| **Prayer Tracker**   | Log 5 daily prayers with streak tracking and monthly summaries                                 |
+| **Tasbeeh Counter**  | Customizable dhikr lists with pin/hide, custom counts, and completion celebrations              |
+| **Quran Tracker**    | Track Quran completion with history and PDF reports                                             |
+| **Daily Tasks**      | Create recurring tasks with custom times and completion calendars                               |
+| **Leaderboard**      | Compete in consistency, streaks, and total dhikr                                                |
+| **Analytics**        | Track site usage with interactive charts                                                        |
 
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT, Recharts, PDFKit
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Recharts, PDFKit
 
 🔗 **Live Demo:** [https://salah-streak.netlify.app/](https://salah-streak.netlify.app/)  
 📂 **GitHub:** [Frontend](https://github.com/shekhfaisal2110/SalahStreak-frontend) | [Backend](https://github.com/shekhfaisal2110/SalahStreak-backend)
 
 ---
 
-## 📊 GitHub Stats & Trophies
+### 💼 Personal Portfolio – Shekh Faisal
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true)
+My modern developer portfolio showcasing my skills, projects, and professional journey.
+
+| **Feature**          | **Description**                                                                                  |
+|----------------------|--------------------------------------------------------------------------------------------------|
+| **Responsive Design**| Fully optimized for desktop, tablet, and mobile                                                |
+| **Project Gallery**  | Interactive showcase of web projects with categories                                            |
+| **Skills Section**   | Detailed breakdown of technical proficiencies                                                   |
+| **Contact Form**     | Get in touch for freelance opportunities and collaborations                                     |
+
+**Tech Stack:** React, Tailwind CSS, Framer Motion, Vercel
+
+🔗 **Live Demo:** [https://portfolio-psi-teal-45.vercel.app/](https://portfolio-psi-teal-45.vercel.app/)  
+📂 **GitHub:** [Source Code](https://github.com/shekhfaisal2110/portfolio)
+
+---
+
+## 📊 GitHub Stats (How to Fix)
+
+The GitHub stats images sometimes fail to load due to caching. Here's how to fix them permanently:
+
+### 🔧 Fix for GitHub Stats
+
+Replace the default URLs with these direct links that include your username and disable cache:
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&no-bg=true&margin-w=8)
-
-</div>
-
----
-
-## 🔥 GitHub Activity & Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekhfaisal2110&theme=react-dark&hide_border=true)
-
----
-
-## 📌 Pinned Projects
-
-### [Salah Streak - Frontend](https://github.com/shekhfaisal2110/SalahStreak-frontend)
-React-based Islamic spiritual companion with 10+ features and beautiful Tailwind UI.
-
-### [Salah Streak - Backend](https://github.com/shekhfaisal2110/SalahStreak-backend)
-Node.js/Express API with MongoDB, JWT auth, PDF generation, and analytics tracking.
-
-### [Jama Masjid Interactive](https://github.com/shekhfaisal2110/jama-masjid)
-Interactive cultural heritage site built with React and Framer Motion.
-
-### [React Portfolio](https://github.com/shekhfaisal2110/portfolio)
-Modern developer portfolio built with Next.js and Tailwind CSS.
-
----
-
-## 📞 Let’s Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekhfaisal2110)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo
