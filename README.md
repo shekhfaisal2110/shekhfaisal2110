@@ -6,10 +6,10 @@
 
 ## Frontend Developer · React Specialist · MERN Stack Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekhfaisal2110)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekhfaisal.2110@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekhfaisal.2110@gmail.com)
 
 </div>
 
@@ -84,15 +84,10 @@ My modern developer portfolio showcasing my skills, projects, and professional j
 
 ---
 
-## 📊 GitHub Stats (How to Fix)
+## 📊 GitHub Stats & Trophies
 
-The GitHub stats images sometimes fail to load due to caching. Here's how to fix them permanently:
+<div align="center">
 
-### 🔧 Fix for GitHub Stats
-
-Replace the default URLs with these direct links that include your username and disable cache:
-
-```markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true&langs_count=8)
@@ -100,6 +95,20 @@ Replace the default URLs with these direct links that include your username and 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+
+</div>
+
+> **Note:** If the stats images don't load immediately, try opening the image URLs directly in your browser. GitHub's cache refreshes periodically.
+
+---
+
+## 🔥 GitHub Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekhfaisal2110&theme=react-dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -110,7 +119,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhfaisal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekhfaisal.2110@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9173195287)
 
