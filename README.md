@@ -94,8 +94,8 @@ My modern developer portfolio showcasing my skills, projects, and professional j
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
+https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&row=2&column=3&theme=radical&no-frame=true&no-bg=true&margin-w=8
 </div>
 
 > **Note:** If the stats images don't load immediately, try opening the image URLs directly in your browser. GitHub's cache refreshes periodically.
