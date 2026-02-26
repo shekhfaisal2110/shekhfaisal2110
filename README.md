@@ -89,7 +89,6 @@ My modern developer portfolio showcasing my skills, projects, and professional j
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&row=2&column=3&theme=radical&no-frame=true&no-bg=true&margin-w=8)
-
 </div>
 
 ---
