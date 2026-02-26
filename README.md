@@ -103,22 +103,39 @@ Replace the default URLs with these direct links that include your username and 
 
 ---
 
+## 📫 Let’s Connect & Collaborate
 
-## 📞 Let’s Connect
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the channels below.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisal-shekh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekhfaisal2110)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-psi-teal-45.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhfaisal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekhfaisal.2110@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9173195287)
 
+</div>
+
+<div align="center">
+📍 Ahmedabad, Gujarat, India
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+- 🔍 Actively seeking **Frontend Developer** roles (Full-time / Contract)
+- 🤝 Open to collaborating on **open-source projects** and innovative **React/UI** ideas
+- 💼 Available for select **freelance projects**
+- 🚀 Passionate about **mentoring** and contributing to the **React community**
 
 ---
 
 <div align="center">
 
-`⭐ Star this repo if you found this README helpful.`  
-`🙏 Thanks for visiting — let’s build something awesome! 🚀`
+### ⭐ Liked my work? Star the repos that caught your eye!
+
+**Thank you for visiting my profile.**  
+Let's build something amazing together. 🚀
 
 </div>
