@@ -84,21 +84,13 @@ My modern developer portfolio showcasing my skills, projects, and professional j
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2110&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&row=2&column=3&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2110&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2110&theme=radical&hide_border=true)
-
-
-https://github-profile-trophy.vercel.app/?username=shekhfaisal2110&row=2&column=3&theme=radical&no-frame=true&no-bg=true&margin-w=8
 </div>
-
-> **Note:** If the stats images don't load immediately, try opening the image URLs directly in your browser. GitHub's cache refreshes periodically.
 
 ---
 
