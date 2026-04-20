@@ -79,8 +79,7 @@ My modern developer portfolio showcasing my skills, projects, and professional j
 
 **Tech Stack:** React, Tailwind CSS, Framer Motion, Vercel
 
-🔗 **Live Demo:** [https://portfolio-psi-teal-45.vercel.app/](https://portfolio-psi-teal-45.vercel.app/)  
-📂 **GitHub:** [Source Code](https://github.com/shekhfaisal2110/portfolio)
+🔗 **Live Demo:** [portfolio](shekhfaisal-portfolio.netlify.app)  
 
 ---
 
