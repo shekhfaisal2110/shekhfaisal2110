@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Assalamu Alaikum! I'm Shekh Faisal
+# 👋 Hello ! I'm Shekh Faisal
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="400"/>
 
